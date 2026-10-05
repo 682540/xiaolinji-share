@@ -1,0 +1,25 @@
+{
+ "generated": "2026-10-05T18:41:12.837Z",
+ "owner": "682540",
+ "repo": "xiaolinji-share",
+ "source": "https://cdn.jsdelivr.net/gh/682540/xiaolinji-share@main/",
+ "cats": [
+  {
+   "name": "预设",
+   "items": [
+    {
+     "name": "示例预设",
+     "path": "预设/示例预设",
+     "type": "folder",
+     "files": [
+      "日常向.json",
+      "说明.txt"
+     ],
+     "cover": null,
+     "desc": "示例资源。可以删掉，也可以照着这个结构放你自己的东西：\n\n每个资源建一个子文件夹，里面放本体文件，可选再放一个 说明.txt 和一张封面图。",
+     "updated": "2026-10-06T02:41:00+08:00"
+    }
+   ]
+  }
+ ]
+}
